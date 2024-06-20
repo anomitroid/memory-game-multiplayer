@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../synchronous-flip-card"
+		},
+		{
+			"path": "../../synchronous-random-numbers"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
